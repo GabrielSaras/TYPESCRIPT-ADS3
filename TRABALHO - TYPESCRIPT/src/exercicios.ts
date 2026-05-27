@@ -11,6 +11,7 @@
  *   Bruno dos Santos Rodrigues        - 24297616-2
  *   Kaio Eduardo                      - 25127228-2
  *   Gabriel Saras Pereira             - 25058772-2
+ *   Stefany Mario Moreira             - 25270134-2
  * Data entrega:26  de Maio de 2026
  * Descritivo: Arquivo principal com menu solicitado pelo prof e os 18 exercícios de
  *  TypeScript.
